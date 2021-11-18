@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kadon</h1>
-<h3 align="center">Love JS /JAVA /Python, passionate about creating realworld tech solutions. Love writting dev article and share my knowledges</h3>
+<h3 align="center">JavaScript Developer , but i love and work with JAVA and Python occassionally, passionate about creating real world User interfaces✨ and tech solutions⚡. Love writting dev article and share my knowledges</h3>
 
 <h3 align="center">I'm a software engineer and I make some apps and websites for personal, contracts and freelance purposes</h3>
 
 <p align="left">
-    <h3 align="center">My latest project was -> <a href="https://www.liam.cm/"> LIAM  - Free email creation service</a></h3>
+    <h3 align="center">My latest  project was -> <a href="https://www.liam.cm/"> LIAM  - Free email creation service</a></h3>
 </p>
 
 <p align="left">
