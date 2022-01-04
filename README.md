@@ -13,20 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kadon</h1>
-<h3 align="left">JavaScript Developer , but i love and work with JAVA, PHP, Python and Dart occassionally, passionate about creating real world User interfaces✨ and tech-based solutions⚡. Love reading/writting dev articles and share my knowledges</h3>
-
-<h3 align="center">I'm a software engineer and I make some apps and websites for personal, contracts and freelance purposes</h3>
-
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kapol Brondon Wills, aka. Kadon</h1>
+<h3 align="left">Software Engineer, i am comfortable working with JS, JAVA, PHP, Python and Dart occassionally, passionate about creating solutions for realworld problems (without neglating the user interfaces/experience✨for more accessibility) and tech-based solutions in general⚡. I Love reading/writting dev articles and share my knowledge.</h3>
+ 
 <p align="left">
-    <h3 align="center">My latest  project was -> <a href="https://www.liam.cm/"> LIAM  - Free email creation service</a></h3>
+    <h3 align="center">You might want to checkout  <a href="https://www.kadon.me/" title="kadon.me" target="_blank"> my portfolio</a> for more details.</h3>
 </p>
 
 <p align="left">
-
-<a href="https://www.youtube.com/channel/" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCC675U1ZUPFASsK9-FjawtA?style=social" alt="kadon" /></a> </p>
-
-<a href="https://twitter.com/kadonwills1" target="blank"><img src="https://img.shields.io/twitter/follow/kadonwills1?logo=twitter&style=for-the-badge" alt="kadon" /></a> </p>
+<a href="https://twitter.com/kadonwills1" target="blank"><img src="https://img.shields.io/twitter/follow/kadonwills1?logo=twitter&style=for-the-badge" alt="kadon" /></a> 
+</p>
 
 <p align="left">
 <a href="https://dev.to/kadonwills" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="kadon" /></a> </p>
