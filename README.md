@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kapol Brondon Wills, aka. Kadon</h1>
-<h3 align="left">Software Engineer, i am comfortable working with JS, JAVA, PHP, Python and Dart occassionally, passionate about creating solutions for realworld problems (without neglating the user interfaces/experience✨for more accessibility) and tech-based solutions in general⚡. I Love reading/writting dev articles and share my knowledge.</h3>
+<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kapol Brondon Wills, aka. Kadon</h2>
+<h4 align="left">Software Engineer , <br/> iI am comfortable working with JS, JAVA, PHP, Python and Dart occassionally, passionate about creating solutions for realworld problems (without neglating the user interfaces/experience✨for more accessibility) and tech-based solutions in general⚡. I Love reading/writting dev articles and share my knowledge.</h4>
  
 <p align="left">
-    <h3 align="center">You might want to checkout  <a href="https://www.kadon.me/" title="kadon.me" target="_blank"> my portfolio</a> for more details.</h3>
+    <h5>You might want to checkout  <a href="https://www.kadon.me/" title="kadon.me" target="_blank"> my portfolio</a> for more details.</h5>
 </p>
 
 <p align="left">
@@ -31,12 +31,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/KadonWills" target="blank"><img src="https://img.shields.io/badge/Github-grey.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0SHViPC90aXRsZT48cGF0aCBkPSJNMTIgLjI5N2MtNi42MyAwLTEyIDUuMzczLTEyIDEyIDAgNS4zMDMgMy40MzggOS44IDguMjA1IDExLjM4NS42LjExMy44Mi0uMjU4LjgyLS41NzcgMC0uMjg1LS4wMS0xLjA0LS4wMTUtMi4wNC0zLjMzOC43MjQtNC4wNDItMS42MS00LjA0Mi0xLjYxQzQuNDIyIDE4LjA3IDMuNjMzIDE3LjcgMy42MzMgMTcuN2MtMS4wODctLjc0NC4wODQtLjcyOS4wODQtLjcyOSAxLjIwNS4wODQgMS44MzggMS4yMzYgMS44MzggMS4yMzYgMS4wNyAxLjgzNSAyLjgwOSAxLjMwNSAzLjQ5NS45OTguMTA4LS43NzYuNDE3LTEuMzA1Ljc2LTEuNjA1LTIuNjY1LS4zLTUuNDY2LTEuMzMyLTUuNDY2LTUuOTMgMC0xLjMxLjQ2NS0yLjM4IDEuMjM1LTMuMjItLjEzNS0uMzAzLS41NC0xLjUyMy4xMDUtMy4xNzYgMCAwIDEuMDA1LS4zMjIgMy4zIDEuMjMuOTYtLjI2NyAxLjk4LS4zOTkgMy0uNDA1IDEuMDIuMDA2IDIuMDQuMTM4IDMgLjQwNSAyLjI4LTEuNTUyIDMuMjg1LTEuMjMgMy4yODUtMS4yMy42NDUgMS42NTMuMjQgMi44NzMuMTIgMy4xNzYuNzY1Ljg0IDEuMjMgMS45MSAxLjIzIDMuMjIgMCA0LjYxLTIuODA1IDUuNjI1LTUuNDc1IDUuOTIuNDIuMzYuODEgMS4wOTYuODEgMi4yMiAwIDEuNjA2LS4wMTUgMi44OTYtLjAxNSAzLjI4NiAwIC4zMTUuMjEuNjkuODI1LjU3QzIwLjU2NSAyMi4wOTIgMjQgMTcuNTkyIDI0IDEyLjI5N2MwLTYuNjI3LTUuMzczLTEyLTEyLTEyIi8+PC9zdmc+" alt="kadon" /></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif">
+<img align="right" width="100" height="100" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif">
 
-- 🔭 I’m currently working on [Building my audience](https://linkedin.com/in/kadon)
+- 🔭 I’m currently working on building robust, secured and human centered web applications
 
-- 📚 I write a book `Entry Level Javascript | Crash course`, get it for FREE if you follow me on [Twitter](https://twitter.com/kadonwills1) and MP me ! 
-
+- 📚 I write a book `Entry Level Javascript | Crash course`, get it for FREE if you follow me on [Twitter](https://twitter.com/kadonwills1) and DM me ! 
 
 - 👨‍💻 All of my  projects are available at [https://github.com/KadonWills](https://github.com/KadonWills) except private projects :)
 
@@ -45,9 +44,8 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on [https://dev.to/kadonwills](https://dev.to/kadonwills)
 
 
-- <!--strong>I'm AWS Certified with AWS Certified Developer – Associate </strong-->
 
-<h3 align="left">Languages and Tools:</h3>
+<!--h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
 
@@ -72,7 +70,27 @@ Here are some ideas to get you started:
 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a-->
+
+
+### Technical Skills 👨‍🔬
+
+**CI/CD**
+
+![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+
+**Frameworks, Platforms and Libraries**
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+
+**Hosting/SaaS**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+
 
 <h3 align="left">Others</h3>
 
