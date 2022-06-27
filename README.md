@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kapol Brondon Wills, aka. Kadon</h2>
+<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Kapol Brondon Wills, aka. Kadon</h2>
 <h4 align="left">Software Engineer , <br/>I'm passionate about creating solutions for real world problems and tech-based solutions in general⚡. I Love reading/writting dev articles, contributing to opensource projects and share my knowledge.</h4>
  
 <p align="left">
