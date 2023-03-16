@@ -62,7 +62,8 @@
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadonwills&show_icons=true&locale=en&layout=compact" alt="kadon" /></p>
+<p><img align="left" src="
+https://camo.githubusercontent.com/aa399cd86b0473f5df7900c2c5afe051162e63bb3a8474cb28ca4b85883decd5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6b61646f6e77696c6c732673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="kadon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadonwills&" alt="kadon" /></p>
 <br/> <br/>
