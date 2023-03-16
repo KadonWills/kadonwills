@@ -19,8 +19,20 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+- 🔭 I’m currently  on **An LMS platform driven by innovation**
 
-- 📚 Twitter: [Twitter](https://twitter.com/kadonwills1) 
+- 📚 I’m currently learning **Microservice, SpringBoot, ReactNative, Docker**
+
+- 👯 I’m looking to collaborate on **Javascript, Laravel/ReactJs, IoT and pretty much any innovating projects**
+
+- 👨‍💻 All of my projects are available at [kadon.me](kadon.me)
+
+- 💬 Ask me about **Software Engineering, UI/UX, Project Management, Agile**
+
+- 📫 How to reach me **kapolw@gmail.com**
+
+
+<h3 align="left">Checkout:</h3>
 - 👨‍💻 Projects: [https://github.com/KadonWills](https://github.com/KadonWills).
 - 🌱 LinkedIn: [https://linkedin.com/in/kadon](https://linkedin/in/kadon).
 - 📝 Blog: [https://dev.to/kadonwills](https://dev.to/kadonwills).
@@ -48,8 +60,9 @@
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadonwills&show_icons=true&locale=en&layout=compact" alt="kadon" /></p>
-<br/>
-<p><img align="center" style="margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=kadonwills&" alt="kadonwills" /></p>
+<br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadonwills&show_icons=true&locale=en&layout=compact" alt="kadon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadonwills&" alt="kadon" /></p>
 <br/> <br/>
