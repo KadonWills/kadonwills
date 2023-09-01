@@ -1,15 +1,12 @@
 
 
 <h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Kapol Brondon Wills, aka. Kadon</h2>
-<h4 align="left">Software Engineer , <br/>I'm passionate about creating <b>software solutions</b> for real world problems and tech-based solutions in general⚡. I Love reading/writting dev articles, contributing to opensource projects and share my knowledge.</h4>
+<h4 align="left">Software Engineer , <br /> I'm passionate about creating <b>software solutions</b> for real world problems and tech-based solutions in general⚡. I Love reading/writting dev articles, contributing to opensource projects and share my knowledge.</h4>
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadonwills&label=Profile%20views&color=0e75b6&style=flat" alt="kadonwills" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadonwills" alt="kadonwills" /></a> </p>
 
-<p align="left">
-    <h5>You might want to checkout  <a href="https://www.kadon.me/" title="kadon.me" target="_blank"> my portfolio</a> for more details.</h5>
-</p>
 
 
 
@@ -19,11 +16,10 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-- 🔭 I’m currently  on **An LMS platform driven by innovation**
 
-- 📚 I’m currently learning **Microservice, SpringBoot, ReactNative, Docker**
+- 📚 I’m currently into **Microservice, SpringBoot, Docker**
 
-- 👯 I’m looking to collaborate on **Javascript, Laravel/ReactJs, IoT and pretty much any innovating projects**
+- 👯 I’m looking to collaborate on **Javascript, ReactJs, Java, IoT and pretty much any innovating projects**
 
 - 👨‍💻 All of my projects are available at [kadon.me](kadon.me)
 
