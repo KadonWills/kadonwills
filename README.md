@@ -1,65 +1,142 @@
 
+<h1 align="center"> 
+Welcome to my GitHub! 👋 I'm K. Brondon Wills (aka Kadon) 
+</h1>
 
-<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Kapol Brondon Wills, aka. Kadon</h2>
-<h4 align="left">Software Engineer , <br /> I'm passionate about creating <b>software solutions</b> for real world problems and tech-based solutions in general⚡. I Love reading/writting dev articles, contributing to opensource projects and share my knowledge.</h4>
- 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadonwills&label=Profile%20views&color=0e75b6&style=flat" alt="kadonwills" /> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
+  <h3>Software Engineer | Solution Provider | Innovator</h3>
+  <p>🌍 Coding impactful solutions from Cameroon 🌍</p>
+  <img src="https://komarev.com/ghpvc/?username=kadonwills&label=Profile%20Views&color=3838F0&style=for-the-badge" alt="Profile Views">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadonwills" alt="kadonwills" /></a> </p>
+---
+
+### 🌟 About Me 
+
+🎓 **5+ years of experience** in building seamless user interfaces & robust business logics with cutting-edge technologies.  
+💻 Passionate about crafting **real-world solutions** and bridging gaps through **innovative software**.  
+📝 Active contributor to **open source**, tech writer, and a lifelong learner.  
+
+When I’m not coding, you’ll find me:  
+🎶 Enjoying music | 🍳 Cooking up a storm | 🌍 Exploring random knowledge topics | 👨‍👩‍👧 Supporting family and uplifting community projects.
+
+---
+
+### 🚀 Tech Stack & Expertise
+
+#### **Frontend Development**
+- **Languages**: JavaScript, TypeScript, HTML, CSS, SCSS.
+- **Frameworks & Tools**: React.js, Next.js, TailwindCSS, Styled-Components, Storybook, Ant.design.
+
+ ![NxetJS](https://img.shields.io/badge/-Next-black?logo=nextdotjs&logoColor=white&style=flat)
+ ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+
+
+#### **Mobile Development**
+- **Languages**: Java/Android, Dart.
+- **Frameworks & Tools**: Flutter
+
+![Flutter](https://img.shields.io/badge/-flutter-blue?logo=Flutter&logoColor=white&style=flat)
+![Android](https://img.shields.io/badge/-android-default?logo=android&logoColor=white&style=flat)
+
+
+#### **Backend Development**
+- **Languages**: Java, Python, Node.js, PHP.
+- **Frameworks**: Spring Boot, Express.js, Django, Laravel.
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
+![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/-django-blue?logo=django&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-yellow?logo=express&logoColor=black&style=flat)
+
+
+#### **DevOps & Tools**
+- **Technologies**: Docker, Kubernetes, Jenkins.
+- **Cloud**: AWS.
+- **Monitoring**: Grafana, Prometheus.
+
+#### **Other Notables**
+- **Database Management**: PostgreSQL, MySQL, SQLite, Oracle.
+- **Version Control**: Git.
+- **Design**: Figma, AdobeXD.
+
+I thrive at the intersection of **user experience** and **scalable engineering solutions**.
+
+### 🛠️ My Daily Toolkit in summary
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,java,spring,flutter,docker,kubernetes,postgres,linux,git,github,vscode,vercel,firebase,figma,laravel,androidstudio,aws,postman,pnpm,dart" alt="Tech Stack" />
+
+| 🖌 **Frontend**  | ⚙️ **Backend**      | 🚀 **Tools**     | ☁️ **Cloud**      |
+|-------------------|--------------------|------------------|------------------|
+| React ⚛️         | Laravel  ♨    | Jira 🗓        | Vercel ▲            |
+| Next.JS 🚀         | Node.js 🌲        | Postman 🐙          | AWS ☁️           |
+| TailwindCSS 🎨    | Spring Boot 🍃     | Docker 🐳       | Firebase 🔥      |
+| JavaScript ⚡      | PostgreSQL 🐘      | Figma 🎨       |  Supabase 🗄️       |
 
 
 
+---
 
-<p align="left">
-<a href="https://dev.to/kadonwills" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="kadon" /></a> </p>
+### 📊 GitHub Stats & Activities
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kadonwills&theme=radical" alt="Profile Details">
+  <img src="https://github-readme-stats.vercel.app/api?username=kadonwills&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadonwills&theme=radical" alt="GitHub Streak">
+</p>
+
+#### **Weekly Code Contributions**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+---
 
-- 📚 I’m currently into **Microservice, SpringBoot, Docker**
+### 🌐 Let’s Connect
 
-- 👯 I’m looking to collaborate on **Javascript, ReactJs, Java, IoT and pretty much any innovating projects**
+**📧 Email**: [kapolw@gmail.com](mailto:kapolw@gmail.com)  
+**🌐 Portfolio**: [kadon](https://www.dinovix.com?ref=kadon's20%github)  
+**📱 Socials**:  
+- 💼 [LinkedIn](https://linkedin.com/in/kadon)
+- 🐦 [Twitter](https://x.com/kadonwills1)
+- ✍️ [Dev.to Blog](https://dev.to/kadonwills)  
+- 👨‍💻 [Stack Overflow](https://stackoverflow.com/users/11230859/kadon)
 
-- 👨‍💻 All of my projects are available at [kadon.me](kadon.me)
+---
 
-- 💬 Ask me about **Software Engineering, UI/UX, Project Management, Agile**
+### 📁 Featured Projects
 
-- 📫 How to reach me **kapolw@gmail.com**
+- **🧺 Laundry Service App**: Web and mobile app built with React and Spring Boot for managing laundry orders effortlessly.  
+  [GitHub Repository](https://github.com/dinovix)
 
+- **📚 Learning Management System (LMS)**: Feature-packed platform designed to enhance online education experiences.  
+  [GitHub Repository](https://github.com/dinovix)
 
-<h3 align="left">Checkout:</h3>
-- 👨‍💻 Projects: [https://github.com/KadonWills](https://github.com/KadonWills).
-- 🌱 LinkedIn: [https://linkedin.com/in/kadon](https://linkedin/in/kadon).
-- 📝 Blog: [https://dev.to/kadonwills](https://dev.to/kadonwills).
+- **🔗 IoT Smart Solutions**: Collaborated on innovative projects merging hardware and software for smarter living.  
+  [GitHub Repository](https://github.com/dinovix)
 
+Check out more on my [GitHub Projects](https://github.com/KadonWills)!
 
-<h3 align="left">Let's connect 😁:</h3>
-<p align="left">
-<a href="https://dev.to/kadonwills" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kapol brondon" height="30" width="40" /></a>
-<a href="https://twitter.com/kadonwills1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kapol brondon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kadon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kapol brondon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kadon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kadon" height="30" width="40" /></a>
+---
 
-</p>
+### 🎯 Fun Facts
 
+- **Programming Philosophy**: Simplicity is the ultimate sophistication.  
+- **Favorite Coding Snack**: Coffee (Always ☕).  
+- **Current Focus**: Exploring **microservices**, **IoT solutions**, and optimizing **UI/UX**.
 
-### Technical Skills 👨‍🔬
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### ❤️ Support My Work
 
+If you’ve enjoyed my projects or found my content helpful, consider supporting me:  
+<a href="https://www.buymeacoffee.com/kadon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"></a>
 
-<h3 align="left">Support Me:</h3>
-<p>
-<a href="https://www.buymeacoffee.com/kadon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="kadon's buy me a cofee button" /></a></p><br><br>
+---
 
-<br><br>
-
-<br><br>
-
-<p><img align="left" src="
-https://camo.githubusercontent.com/aa399cd86b0473f5df7900c2c5afe051162e63bb3a8474cb28ca4b85883decd5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6b61646f6e77696c6c732673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="kadon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadonwills&" alt="kadon" /></p>
-<br/> <br/>
+**"Great code, like great art, leaves an indelible mark on the world."**  
+Let’s create something incredible together! 🌟
