@@ -14,7 +14,7 @@ Welcome to my GitHub! 👋 I'm K. Brondon Wills (aka Kadon)
 
 ### 🌟 About Me 
 
-🎓 **5+ years of experience** in building seamless user interfaces & robust business logics with cutting-edge technologies.  
+🎓 **7+ years of experience** in building seamless user interfaces & robust business logics with cutting-edge technologies.  
 💻 Passionate about crafting **real-world solutions** and bridging gaps through **innovative software**.  
 📝 Active contributor to **open source**, tech writer, and a lifelong learner.  
 
