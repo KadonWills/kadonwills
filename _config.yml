@@ -1,19 +1,11 @@
-theme: jekyll-theme-hacker
-- name: Profile Readme Development Stats
-  uses: anmol098/waka-readme-stats@V3
-name: Waka Readme
+# GitHub Pages config for https://kadonwills.github.io/kadonwills/
+# The profile README itself is rendered by github.com/KadonWills and ignores this file.
+#
+# NOTE: this file previously had a GitHub Actions workflow pasted below the theme
+# key, which made it invalid YAML and left the Pages build in an errored state.
+# The workflow now lives in .github/workflows/ where Actions can actually see it.
 
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+theme: jekyll-theme-hacker
+
+title: Kadon Wills
+description: Software Engineer & Tech Entrepreneur — Founder, Dinovix Ltd.
