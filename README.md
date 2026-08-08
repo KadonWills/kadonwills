@@ -169,10 +169,12 @@ A model is allowed to read a government PDF and tell me what it says. It is neve
 *Tools chosen for the job, not the résumé.*
 
 <div align="center">
+<!-- Commas below are %2C-encoded on purpose: a raw comma inside srcset is a
+     candidate separator, so the browser would request only the first icon. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,java,spring,flutter,dart,firebase,postgres,docker,rust,vercel,git,figma&theme=dark&perline=16">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,java,spring,flutter,dart,firebase,postgres,docker,rust,vercel,git,figma&theme=light&perline=16">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,java,spring,flutter,dart,firebase,postgres,docker,rust,vercel,git,figma&theme=dark&perline=16" alt="Tech stack" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnextjs%2Creact%2Ctailwind%2Cnodejs%2Cjava%2Cspring%2Cflutter%2Cdart%2Cfirebase%2Cpostgres%2Cdocker%2Crust%2Cvercel%2Cgit%2Cfigma&theme=dark&perline=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cnextjs%2Creact%2Ctailwind%2Cnodejs%2Cjava%2Cspring%2Cflutter%2Cdart%2Cfirebase%2Cpostgres%2Cdocker%2Crust%2Cvercel%2Cgit%2Cfigma&theme=light&perline=8">
+  <img alt="TypeScript, Next.js, React, Tailwind, Node.js, Java, Spring, Flutter, Dart, Firebase, PostgreSQL, Docker, Rust, Vercel, Git, Figma" src="https://skillicons.dev/icons?i=ts%2Cnextjs%2Creact%2Ctailwind%2Cnodejs%2Cjava%2Cspring%2Cflutter%2Cdart%2Cfirebase%2Cpostgres%2Cdocker%2Crust%2Cvercel%2Cgit%2Cfigma&theme=dark&perline=8" width="620">
 </picture>
 </div>
 
